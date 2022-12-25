@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    
+    width:550px;
+    height: 868px;
+    background-color: #23252C;
+       
+}
+
+img{
+    height: 317px;
+    width:  317px;
+    
+}
+
+.container{
+    text-align: center;
+    color: white; 
+    width: 317px;
+    height: 960px; 
+    background-color: #1A1B21;  
+    margin: auto;
+}
+.email-btn:not(i){
+    width: 247px;
+    height: 34px;
+    border-radius: 5px;
+}
+.fa-regular{
+    margin:0px 10px;
+   
+}
+.width-div{
+    width:247px;
+    margin: auto;
+}
+.fa-brands {
+    margin: 15px;
+}
+
