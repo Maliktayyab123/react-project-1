@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 export default function Info() {
   return (
     <div>
-      <img src="./images/tayyab-pic.jpg" />
+      <img src="../images/tayyab-pic.jpg" />
       <h1>Muhammad Tayyab</h1>
       <h4>Frontend Developer</h4>
       <p>laurasmith.website</p>
